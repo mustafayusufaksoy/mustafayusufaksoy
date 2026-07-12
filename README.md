@@ -92,12 +92,12 @@
 ## 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafayusufaksoy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-sage-two-46.vercel.app/api?username=mustafayusufaksoy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafayusufaksoy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayusufaksoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats-sage-two-46.vercel.app/api/top-langs/?username=mustafayusufaksoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
 </div>
 
 ---
